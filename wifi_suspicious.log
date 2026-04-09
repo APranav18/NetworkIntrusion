@@ -1,0 +1,2 @@
+# This file is used by the WiFi monitor to log suspicious events for Wazuh integration.
+# It is read and cleared by wazuh_integration.py in the wazuh/ directory.

@@ -1,0 +1,40 @@
+# AI-Based Network Intrusion Detection System
+# Python Dependencies
+
+# Web Framework
+Flask==2.3.3
+flask-mail==0.9.1
+Werkzeug==2.3.7
+
+# Database
+mysql-connector-python==8.1.0
+
+# Machine Learning
+scikit-learn==1.3.0
+pandas==2.0.3
+numpy==1.24.3
+joblib==1.3.2
+
+# Data Visualization
+matplotlib==3.7.2
+seaborn==0.12.2
+
+# Network Packet Capture (requires admin/root privileges)
+scapy==2.5.0
+
+# Real-time WebSocket Support
+flask-socketio==5.6.1
+python-socketio==5.16.1
+python-engineio==4.13.1
+eventlet==0.40.4
+
+# System Monitoring
+psutil==7.2.2
+
+# Utilities
+python-dotenv==1.0.0
+requests==2.31.0
+requests
+
+# Optional - for production deployment
+gunicorn==21.2.0
